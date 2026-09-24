@@ -9,7 +9,7 @@ Adobe Illustrator上で、選択したオブジェクトに寸法線を作成す
 
 ## ダウンロード
 
-[chappy-illustrator-dimension-v0.3.zip](chappy-illustrator-dimension-v0.3.zip)
+[最新版のZIPを直接ダウンロード](https://raw.githubusercontent.com/SealiceAltair/tools/main/illustrator/dimension/chappy-illustrator-dimension.zip)
 
 ## 主な機能
 
