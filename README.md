@@ -4,6 +4,11 @@ SealiceAltairが制作したツールの配布場所です。
 
 ## 配布中のツール
 
+### ダイス
+
+- [ほしみのダイスロール 1.1.1](dice/hoshimi/)
+  - Windows用D100アプリ。完成品EXEだけで起動できます。
+
 ### Adobe Illustrator
 
 - [寸法v0.3](illustrator/dimension/)
